@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SpookyVR.unity
+    guid: 5e6e6de7431f0384fba8309493f251f1
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 64100cd726856974996a0dca975841f4, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 3e7f174a8f319b945a86ab5ef61ff6db, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ab3933cc35372154091a140581e15c9b, type: 2}
